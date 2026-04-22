@@ -48,7 +48,7 @@ public class Unit5 {
     // TODO: Implement default constructor
         public Unit5(){
             name = "Unknown";
-            age =0;
+            age = 0;
             count++;
 
         }
@@ -107,7 +107,7 @@ public class Unit5 {
      * @param name the new name
      */
     // TODO: Implement setName()
-    public setName (String a){
+    public void setName (String a){
         name=a;
     }
 
@@ -126,7 +126,7 @@ public class Unit5 {
      * @param age the new age
      */
     // TODO: Implement setAge()
-    public setAge(int a){
+    public void setAge(int a){
         age=a;
 
     }
