@@ -138,7 +138,7 @@ public class Unit5 {
      * @return the count of objects created
      */
     // TODO: Implement static getCount()
-    public int getCount(){
+    public static int getCount(){
         return count;
     }
 
